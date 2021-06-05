@@ -1,0 +1,67 @@
+{
+  "imagenes": [
+    {
+      "id": 1,
+      "cedula": "1082909710",
+      "nombre": "jhon",
+      "apellido": "rivas",
+      "edad": "30",
+      "sexo": "m",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": 2,
+      "cedula": "1082909756",
+      "nombre": "camilo",
+      "apellido": "beltran",
+      "edad": "20",
+      "sexo": "m",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+      "cedula": "108256332",
+      "nombre": "maria",
+      "apellido": "rivas",
+      "edad": "40",
+      "sexo": "f",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 3
+    },
+    {
+      "cedula": "10824522",
+      "nombre": "camila",
+      "apellido": "vernal",
+      "edad": "30",
+      "sexo": "f",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 4
+    }
+  ],
+  "Videos": [
+    {
+      "id": 21,
+      "nombre": "jhon",
+      "artista": "m",
+      "avatar": "https://www.youtube.com/embed/0NX_9uiwIXo"
+    },
+    {
+      "id": 22,
+      "nombre": "jhon",
+      "artista": "m",
+      "avatar": "https://www.youtube.com/embed/HVAR85rorvU"
+    },
+    {
+      "nombre": "jhon",
+      "artista": "m",
+      "avatar": "https://www.youtube.com/embed/GxPEH2Il8cM",
+      "id": 23
+    }
+  ],
+  "administrador":[
+    {
+      "id":30,
+      "usuario":"inghernandovargas@gmail.com",
+      "contraseña":12346
+    }
+  ]
+}
